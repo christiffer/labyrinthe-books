@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://christiffer.github.io/labyrinthe-books'
 languageCode = 'en-us'
 title = 'Labyrinthe Rules'
 theme = 'hugo-book'
@@ -16,7 +16,7 @@ enableGitInfo = true
     BookLogo = 'LabyrintheLogo.png'
     BookSection = 'books'
     BookToc = true
-    BookRepo = 'https://github.com/labyrinthe/rulebooks'
+    BookRepo = 'https://github.com/christiffer/labyrinthe-books'
 
 [markup]
   [tableOfContents]
