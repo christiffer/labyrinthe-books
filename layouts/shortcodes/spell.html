@@ -1,0 +1,37 @@
+<ul class="spell">
+  <table>
+  {{ $url := .Get "url" }}
+  {{ range getJSON $url }}
+    {{ $spell := . }}
+      <thead>
+        <tr>
+          <th class="tg-c3ow" colspan="6">{{ $spell.name }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td >Level</td>
+          <td >{{ $spell.level }}</td>
+          <td >Colour</td>
+          <td >{{ $spell.colour }}</td>
+          <td >Duration</td>
+          <td >{{ $spell.duration }}</td>
+        </tr>
+        <tr>
+          <td >Verbal</td>
+          <td  colspan="5">{{ $spell.verbal }}</td>
+        </tr>
+        <tr>
+          <td >Description</td>
+          <td  colspan="5">{{ $spell.description }}</td>
+        </tr>
+        {{ if $spell.note }}
+        <tr>
+          <td>Note</td>
+          <td colspan="5">{{ $spell.note }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+      {{ end }}
+    </table>
+</ul>
