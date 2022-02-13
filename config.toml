@@ -2,8 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Labyrinthe Rules'
 theme = 'hugo-book'
-enableGitInfo = true
 
+disablePathToLower = true
+enableGitInfo = true
 
 [menu]
 [[menu.after]]
@@ -15,6 +16,7 @@ enableGitInfo = true
     BookLogo = 'LabyrintheLogo.png'
     BookSection = 'books'
     BookToc = true
+    BookRepo = 'https://github.com/labyrinthe/rulebooks'
 
 [markup]
   [tableOfContents]
