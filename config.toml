@@ -1,3 +1,21 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Labyrinthe Rules'
+theme = 'hugo-book'
+enableGitInfo = true
+
+
+[menu]
+[[menu.after]]
+  name = "Labyrinthe Website"
+  url = "http://www.labyrinthe.co.uk"
+  weight = 100
+
+[params]
+    BookLogo = 'LabyrintheLogo.png'
+    BookSection = 'books'
+    BookToc = true
+
+[markup]
+  [tableOfContents]
+    endLevel = 4
