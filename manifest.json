@@ -1,0 +1,15 @@
+{
+  "name": "Labyrinthe Rules",
+  "short_name": "Labyrinthe Rules",
+  "start_url": "/labyrinthe-books/",
+  "scope": "/labyrinthe-books/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/labyrinthe-books/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
