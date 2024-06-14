@@ -9,7 +9,7 @@ bookCollapseSection: true
 
 This book is divided up into two parts:
 
-The first section deals with everything that you need to know to start to play in the Labyrinthe Live Role-playing environment and are all the basic rules that you are likely to need as you progress from a 1st Level novice up to an 8th Level seasoned mercenary. It tends to deal with the kind of thing that you are most likely to meet on your first few Adventures. The Classes and Races listed are those that we recommend that you familiarise yourself with and playbefore trying the more complex Classes. If once you have read through this and have quite a firm idea of what basicclass you want to play we would thoroughly suggest that you get hold of the relevant publication with the more in depthdetails relating to that class.
+The first section deals with everything that you need to know to start to play in the Labyrinthe Live Role-playing environment and are all the basic rules that you are likely to need as you progress from a novice up to a seasoned mercenary. It tends to deal with the kind of thing that you are most likely to meet on your first few Adventures. The Classes and Races listed are those that we recommend that you familiarise yourself with and playbefore trying the more complex Classes. If once you have read through this and have quite a firm idea of what basicclass you want to play we would thoroughly suggest that you get hold of the relevant publication with the more in depthdetails relating to that class.
 
 The second section is a reference for more experienced players who require information that may not be contained inother publications and also to give you a basic idea as to the beginnings of further character development andprogression.
 
